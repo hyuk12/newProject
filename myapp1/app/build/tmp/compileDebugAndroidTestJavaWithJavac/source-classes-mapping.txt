@@ -1,0 +1,4 @@
+com/example/myapp1/ExampleInstrumentedTest.java
+ com.example.myapp1.ExampleInstrumentedTest
+com/example/myapp1/test/BuildConfig.java
+ com.example.myapp1.test.BuildConfig
